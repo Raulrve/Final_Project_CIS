@@ -11,13 +11,3 @@ def print_hi(name):
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
-
-#       Procedural
-# OUT => .csv
-# OUT => Graphs regarding accuracy from all the models
-
-# Diego: Model Creation
-# Gam: Visualization, Report
-# Alberto: EDA, Preprocessing
